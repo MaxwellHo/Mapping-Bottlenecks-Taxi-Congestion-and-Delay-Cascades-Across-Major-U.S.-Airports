@@ -7,3 +7,6 @@ Dataset: https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-2018202
 Note: Only 600k of 4 million randomly chosen records in the 2022 dataset was used.
 
 Goal: Analyze taxi ground congestion and its relation with airport flight delays in Major U.S. Airports.
+
+
+Tableau: https://public.tableau.com/app/profile/maxwell.ho6494/viz/Flight_Congestion_Analysis/Sheet12
